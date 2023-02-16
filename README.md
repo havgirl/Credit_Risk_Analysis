@@ -39,7 +39,7 @@ The purpose of this challenge is to apply our machine learning skills to help so
 
 ### Balanced Random Forest Classifier
 
-![](Images/Balanced_Random_Forest_Classifier_Imbalanced_Classifcation_Report.png)
+![](Images/Balanced_Random_Forest_Classifier_Imbalanced_Classification_Report.png)
 
 - Balanced Accuracy: ![](Images/Balanced_Random_Forest_Classifier_Balanced_Accuracy_Score.png)
 - Precision:
@@ -47,7 +47,7 @@ The purpose of this challenge is to apply our machine learning skills to help so
 
 ### Easy Ensemble AdaBoost Classifier
 
-![](Images/Easy_Ensamble_AdaBoost_Classifier_Imbalanced_Classifcation_Report.png)
+![](Images/Easy_Ensamble_AdaBoost_Classifier_Imbalanced_Classification_Report.png)
 
 - Balanced Accuracy: ![](Images/Easy_Ensamble_AdaBoost_Classifier_Balanced_Accuracy_Score.png)
 - Precision:
