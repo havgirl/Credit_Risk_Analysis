@@ -10,8 +10,8 @@ The purpose of this challenge is to apply our machine learning skills to help so
 ![](Images/Naive_Random_Oversampling_Imbalanced_Classifcation_Report.png)
 
 - Balanced Accuracy: ![](Images/Naive_Random_Oversampling_Balanced_Accuracy_Score.png)
-- Precision:
-- Recall:
+- Precision: High-risk loans --> low precision, Low-risk loans --> high precision
+- Recall: High-risk loans --> .63 , Low-risk loans --> .40
 
 ### SMOTE Oversampling
 
