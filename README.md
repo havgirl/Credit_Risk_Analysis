@@ -13,7 +13,7 @@ The purpose of this challenge is to apply our machine learning skills to help so
 - High-risk loan precision: low - 0.01
 - Low-risk loan precision: high - 1.00
 - High-risk loan recall: .62
-- Low-risk loan precission: .65
+- Low-risk loan recall: .65
 
 ### SMOTE Oversampling
 
@@ -23,7 +23,7 @@ The purpose of this challenge is to apply our machine learning skills to help so
 - High-risk loan precision: low - 0.01
 - Low-risk loan precision: high - 1.00
 - High-risk loan recall: .62
-- Low-risk loan precission: .64
+- Low-risk loan recall: .64
 
 ### Undersampling
 
@@ -33,7 +33,7 @@ The purpose of this challenge is to apply our machine learning skills to help so
 - High-risk loan precision: low - 0.01
 - Low-risk loan precision: high - 1.00
 - High-risk loan recall: .60
-- Low-risk loan precission: .43
+- Low-risk loan recall: .43
 
 ### Combination OverUnder Sampling
 
@@ -43,7 +43,7 @@ The purpose of this challenge is to apply our machine learning skills to help so
 - High-risk loan precision: low - 0.01
 - Low-risk loan precision: high - 1.00
 - High-risk loan recall: .70
-- Low-risk loan precission: .57
+- Low-risk loan recall: .57
 
 ### Balanced Random Forest Classifier
 
@@ -53,7 +53,7 @@ The purpose of this challenge is to apply our machine learning skills to help so
 - High-risk loan precision: low - 0.04
 - Low-risk loan precision: high - 1.00
 - High-risk loan recall: .67
-- Low-risk loan precission: .91
+- Low-risk loan recall: .91
 
 ### Easy Ensemble AdaBoost Classifier
 
@@ -63,8 +63,8 @@ The purpose of this challenge is to apply our machine learning skills to help so
 - High-risk loan precision: low - 0.07
 - Low-risk loan precision: high - 1.00
 - High-risk loan recall: .91
-- Low-risk loan precission: .94
+- Low-risk loan recall: .94
 
 ## Summary
-In summary, when selecting a machine learning model it is best to select a model with accuracy closest to 1. For the credit card data set, the recommendation would be to use the Easy Ensemble AdaBoost Classifier - as this model had the highest balanced accuracy (.9254)
+In summary, when selecting a machine learning model it is best to select a model with accuracy closest to 1. For the credit card data set, the recommendation would be to use the Easy Ensemble AdaBoost Classifier - as this model had the highest balanced accuracy (.9254) as opposed to the other models which all had accuracy ranging between (0.60 and 0.80).  Additionally, if evaluatting the recall scores - the Easy Ensembler adaBoost Classifier als had the hightest recall scores for both low and high risk loans.
 
