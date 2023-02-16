@@ -9,49 +9,49 @@ The purpose of this challenge is to apply our machine learning skills to help so
 
 ![](Images/Naive_Random_Oversampling_Imbalanced_Classifcation_Report.png)
 
-- 1. Balanced Accuracy: ![](Images/Naive_Random_Oversampling_Balanced_Accuracy_Score.png)
-- 2. Precision:
-- 3. Recall:
+- Balanced Accuracy: ![](Images/Naive_Random_Oversampling_Balanced_Accuracy_Score.png)
+- Precision:
+- Recall:
 
 ### SMOTE Oversampling
 
 ![](Images/SMOTE_Oversampling_Imbalanced_Classifcation_Report.png)
 
-- 1. Balanced Accuracy: ![](Images/SMOTE_Oversampling_Balanced_Accuracy_Score.png)
-- 2. Precision:
-- 3. Recall:
+- Balanced Accuracy: ![](Images/SMOTE_Oversampling_Balanced_Accuracy_Score.png)
+- Precision:
+- Recall:
 
 ### Undersampling
 
 ![](Images/Cluster_Centroids_Undersampling_Imbalanced_Classifcation_Report.png)
 
-- 1. Balanced Accuracy: ![](Images/Cluster_Centroids_Undersampling_Balanced_Accuracy_Score.png)
-- 2. Precision:
-- 3. Recall:
+- Balanced Accuracy: ![](Images/Cluster_Centroids_Undersampling_Balanced_Accuracy_Score.png)
+- Precision:
+- Recall:
 
 ### Combination OverUnder Sampling
 
 ![](Images/SMOTE_Combination_OverUnder_Sampling_Imbalanced_Classifcation_Report.png)
 
-- 1. Balanced Accuracy: ![](Images/SMOTE_Combination_OverUnder_Sampling_Balanced_Accuracy_Score.png)
-- 2. Precision:
-- 3. Recall:
+- Balanced Accuracy: ![](Images/SMOTE_Combination_OverUnder_Sampling_Balanced_Accuracy_Score.png)
+- Precision:
+- Recall:
 
 ### Balanced Random Forest Classifier
 
 ![](Images/Balanced_Random_Forest_Classifier_Imbalanced_Classifcation_Report.png)
 
-- 1. Balanced Accuracy: ![](Images/Balanced_Random_Forest_Classifier_Balanced_Accuracy_Score.png)
-- 2. Precision:
-- 3. Recall:
+- Balanced Accuracy: ![](Images/Balanced_Random_Forest_Classifier_Balanced_Accuracy_Score.png)
+- Precision:
+- Recall:
 
 ### Easy Ensemble AdaBoost Classifier
 
 ![](Images/Easy_Ensamble_AdaBoost_Classifier_Imbalanced_Classifcation_Report.png)
 
-- 1. Balanced Accuracy: ![](Images/Easy_Ensamble_AdaBoost_Classifier_Balanced_Accuracy_Score.png)
-- 2. Precision:
-- 3. Recall:
+- Balanced Accuracy: ![](Images/Easy_Ensamble_AdaBoost_Classifier_Balanced_Accuracy_Score.png)
+- Precision:
+- Recall:
 
 ## Summary
 
