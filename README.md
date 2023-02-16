@@ -66,5 +66,5 @@ The purpose of this challenge is to apply our machine learning skills to help so
 - Low-risk loan recall: .94
 
 ## Summary
-In summary, when selecting a machine learning model it is best to select a model with accuracy closest to 1. For the credit card data set, the recommendation would be to use the Easy Ensemble AdaBoost Classifier - as this model had the highest balanced accuracy (.9254) as opposed to the other models which all had accuracy ranging between (0.60 and 0.80).  Additionally, if evaluatting the recall scores - the Easy Ensembler adaBoost Classifier als had the hightest recall scores for both low and high risk loans.
+In summary, when selecting a machine learning model it is best to select a model with accuracy closest to 1. For the credit card data set, the recommendation would be to use the Easy Ensemble AdaBoost Classifier - as this model had the highest balanced accuracy (.9254) as opposed to the other models which all had accuracy ranging between (0.60 and 0.80).  Additionally, if evaluating the recall scores - the Easy Ensembler adaBoost Classifier also had the hightest recall scores for both low and high risk loans (.91 and .94) thereby making it the best model to choose for future credit card analysis.
 
